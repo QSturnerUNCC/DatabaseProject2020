@@ -2,6 +2,7 @@
 
 **Table of Contents**
 * Introduction (Team, Project Description)
+  * Quentin Sturner (Individual)
 * Use Case for Rating System
 * Business Rules
 * EERD (full database)
