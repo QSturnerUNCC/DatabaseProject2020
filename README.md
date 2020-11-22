@@ -22,7 +22,9 @@ Hello, my name is Quentin Sturner. In this project, I will be extending a databa
 ### Business Rules
 - Each user and restaurant has only one account in the system
 - Many users can rate many restuarants, the opposite is also true
-- Each rating has an ID, star rating (out of 5), description, and an option to link the rating to a delivery
+- Each rating has an ID, rater_id (FK), order ID (FK), star rating (out of 5), description, and timestamp
 - Each user and restaurant will have an overall rating, which aggregates data from existing ratings
 
 ### EERD (Fully Normalized)
+
+![EERD](https://drive.google.com/uc?export=view&id=1rG9h42mTNcu_zgxPcPOiPnYcvyKYn-gV)
