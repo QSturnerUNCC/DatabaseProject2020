@@ -18,3 +18,11 @@ Hello, my name is Quentin Sturner. In this project, I will be extending a databa
 ### Use Case Diagram
 
 ![Use Case Diagram](https://drive.google.com/uc?export=view&id=1vyXvTiCQuMret814vVdh96v8k1phrq7g)
+
+### Business Rules
+- Each user and restaurant has only one account in the system
+- Many users can rate many restuarants, the opposite is also true
+- Each rating has an ID, star rating (out of 5), description, and an option to link the rating to a delivery
+- Each user and restaurant will have an overall rating, which aggregates data from existing ratings
+
+### EERD (Fully Normalized)
