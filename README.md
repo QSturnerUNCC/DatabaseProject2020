@@ -33,3 +33,7 @@ Hello, my name is Quentin Sturner. In this project, I will be extending a databa
 ### Data Dictionary
 
 ![Data Dictionary](https://drive.google.com/uc?export=view&id=15MCSl34-CK9JDm1nuAsW1U9BZBTB_s1P)
+
+## MySQL Dump
+
+
