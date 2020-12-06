@@ -36,4 +36,4 @@ Hello, my name is Quentin Sturner. In this project, I will be extending a databa
 
 ## MySQL Dump
 
-
+Link to file: Database2020Proj.sql
