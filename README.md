@@ -30,6 +30,11 @@ Hello, my name is Quentin Sturner. In this project, I will be extending a databa
 ![EERD](https://drive.google.com/uc?export=view&id=1rG9h42mTNcu_zgxPcPOiPnYcvyKYn-gV)
 \* New table highlighted
 
+### MYSQL Queries
+
+https://github.com/QSturnerUNCC/DatabaseProject2020/blob/main/query1.sql
+https://github.com/QSturnerUNCC/DatabaseProject2020/blob/main/query2.sql
+
 ### Data Dictionary
 
 ![Data Dictionary](https://drive.google.com/uc?export=view&id=15MCSl34-CK9JDm1nuAsW1U9BZBTB_s1P)
@@ -37,3 +42,7 @@ Hello, my name is Quentin Sturner. In this project, I will be extending a databa
 ## MySQL Dump
 
 Link to file: https://github.com/QSturnerUNCC/DatabaseProject2020/blob/main/Database2020Proj.sql
+
+### PPT Vid
+
+https://youtu.be/dlayN7fEij0
