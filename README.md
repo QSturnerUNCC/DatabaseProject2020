@@ -1,15 +1,13 @@
 # DatabaseProject2020
 
-## **Table of Contents** (Work-in-progress)
-* Introduction (Team, Project Description)
+## **Table of Contents** 
+* Introduction 
 * Use Case for Rating System
 * Business Rules
-* EERD (full database)
+* EERD 
 * MySQL Queries
-* Stored Procedure
-* Web/App Implementation (Optional) or Description of Future Work
 * MySQL dump
-* PPT Video (link)
+* PPT Video 
 
 
 ### Introduction 
@@ -43,6 +41,6 @@ https://github.com/QSturnerUNCC/DatabaseProject2020/blob/main/query2.sql
 
 Link to file: https://github.com/QSturnerUNCC/DatabaseProject2020/blob/main/Database2020Proj.sql
 
-### PPT Vid
+### PPT Video
 
 https://youtu.be/dlayN7fEij0
